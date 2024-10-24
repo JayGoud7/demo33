@@ -520,6 +520,7 @@ footer {
 
 nav h1{
   font-size: 3vw;
+  font-weight: 500;
 }
 
 nav ul{
@@ -637,11 +638,11 @@ nav{
   justify-content: space-between;
   align-items: center;
   position: relative;
-  padding: 0.6rem 1.5rem;
+  padding: 0.8rem 1.5rem;
 }
 
 .Hero-Section h1 {
-  font-size: 2rem;
+  font-size: 1.9rem;
   text-align: center;
 }
 
@@ -765,7 +766,7 @@ nav{
 }
 
 .Section-4 {
-  padding: 1rem 1rem;
+  padding: 2rem 1rem;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
